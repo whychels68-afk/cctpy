@@ -1,2 +1,2 @@
-# cctpy
+w# cctpy
 python语言的cct建模
